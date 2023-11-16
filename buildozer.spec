@@ -4,7 +4,7 @@
 title = Application Of Plants
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = PlantApp
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
